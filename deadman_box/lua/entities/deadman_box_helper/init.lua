@@ -1,7 +1,3 @@
---[[---------------------------------------------------------------------------
-This is an example of a custom entity.
----------------------------------------------------------------------------]]
-AddCSLuaFile("cl_init.lua")
 AddCSLuaFile("shared.lua")
 include("shared.lua")
 
